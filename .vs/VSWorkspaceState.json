@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AMS.eCom",
+    "\\AMS.eCom\\AMS.ecom.API",
+    "\\AMS.eCom\\AMS.ecom.API\\Properties",
+    "\\AMS.eCom\\AMS.ecom.Domain",
+    "\\AMS.eCom\\AMS.ecom.Domain\\Core",
+    "\\AMS.eCom\\AMS.ecom.Domain\\Core\\Entities",
+    "\\AMS.eCom\\AMS.ecom.Domain\\Core\\Interfaces"
+  ],
+  "SelectedNode": "\\AMS.eCom\\AMS.ecom.API\\Properties",
+  "PreviewInSolutionExplorer": false
+}
